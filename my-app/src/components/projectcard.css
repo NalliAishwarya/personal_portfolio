@@ -1,0 +1,29 @@
+.proj-imgbx {
+    height: 300px; /* Adjust the height as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  .proj-imgbx img {
+    max-height: 70%;
+    object-fit: cover;
+  }
+  
+  .proj-txtx {
+    padding: 10px;
+    text-align: center;
+    height: 30%; /* Adjust the height as needed */
+  }
+  
+  .proj-txtx h4 {
+    font-size: 1.2rem;
+  }
+  
+  .proj-txtx span {
+    font-size: 1rem;
+    color: gray;
+  }
+  

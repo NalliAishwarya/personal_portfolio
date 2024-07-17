@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -48,5 +49,12 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
+=======
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18.3.1"
+>>>>>>> 3d1a45431011341b6e6d304520ee41486b8f32fe
   }
 }
